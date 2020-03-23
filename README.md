@@ -1,2 +1,2 @@
-# ShaderGL-Classroom-1
-Teaching the way into Scene Graph via Github Classroom
+# ShaderGL
+Simple project creation display an obj with a texture. The obj and the texture are stored in a directory (asset/).
